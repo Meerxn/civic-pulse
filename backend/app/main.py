@@ -22,12 +22,7 @@ app = FastAPI(title="CivicPulse API", version="1.0.0")
 # Allow frontend origins (Netlify + local dev)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",
-        "https://*.netlify.app",
-        "https://civicpulse.netlify.app",
-    ],
-    allow_credentials=True,
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
