@@ -1,50 +1,45 @@
 """
-RAG retrieval module. Loads FAISS index once at startup and provides search.
+RAG retrieval module. Loads chunks once at startup, builds a BM25 index for keyword search.
 """
 
 import pickle
-from functools import lru_cache
 from pathlib import Path
 
-import faiss
-import numpy as np
-from sentence_transformers import SentenceTransformer
+from rank_bm25 import BM25Okapi
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-INDEX_PATH = DATA_DIR / "faiss.index"
 CHUNKS_PATH = DATA_DIR / "chunks.pkl"
-EMBED_MODEL = "all-MiniLM-L6-v2"
 
 
 class RAGRetriever:
     def __init__(self):
-        print("Loading FAISS index and embedding model...")
-        self.model = SentenceTransformer(EMBED_MODEL)
-        self.index = faiss.read_index(str(INDEX_PATH))
+        print("Loading chunks and building BM25 index...")
         with open(CHUNKS_PATH, "rb") as f:
             self.chunks = pickle.load(f)
-        print(f"✓ RAG ready: {self.index.ntotal} vectors")
+
+        tokenized = [c["text"].lower().split() for c in self.chunks]
+        self.bm25 = BM25Okapi(tokenized)
+        print(f"✓ RAG ready: {len(self.chunks)} chunks")
 
     def search(self, query: str, k: int = 6, category: str | None = None) -> list[dict]:
         """Return top-k relevant chunks, optionally filtered by category."""
-        embedding = self.model.encode([query], normalize_embeddings=True).astype(np.float32)
-        scores, indices = self.index.search(embedding, k * 3)  # over-fetch then filter
+        tokens = query.lower().split()
+        scores = self.bm25.get_scores(tokens)
+
+        ranked = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)
 
         results = []
         seen_sources = set()
-        for score, idx in zip(scores[0], indices[0]):
-            if idx < 0:
-                continue
+        for idx in ranked:
+            if len(results) >= k:
+                break
             chunk = self.chunks[idx]
             if category and chunk["category"] != category:
                 continue
-            # Deduplicate by source (keep top chunk per source)
             if chunk["source"] in seen_sources:
                 continue
             seen_sources.add(chunk["source"])
-            results.append({**chunk, "score": float(score)})
-            if len(results) >= k:
-                break
+            results.append({**chunk, "score": float(scores[idx])})
 
         return results
 
