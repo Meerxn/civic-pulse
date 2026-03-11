@@ -1,0 +1,225 @@
+Renew or update business license | Washington Department of Revenue
+Renew Or Update Business License
+Renew or update business license
+Renew a business license
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+button. If you have access to more than one business, either click the
+requiring the renewal and continue to step 4, or, if you want to see all renewals for all businesses, click the
+from the Filters field. Then, click the
+Renew Business License
+link and continue to step 5.
+On the Business License panel, click the
+Renew Business License
+link, or, to see all renewals for all accounts, click the
+Renew Business License
+Review the information and answer the questions on the License Renewal page.
+If you need to update your SAW profile email address, select
+update your SAW profile
+once your renewal is submitted.
+If your mailing or location address has changed, select
+and follow the instructions to
+update your business addresses
+before you renew your business license. After your address has been updated, select
+Review the information on the Business Contact page. If required information is missing, you will see a warning message. If applicable, update the required fields, and then click
+If you have state endorsements to renew, complete all requested information for each endorsement and click
+If applicable, on the City License Endorsement page, review the information and complete the required fields.
+Review the Trade Names, you can add or cancel names here, and then click
+On the Endorsement/Fee Overview page, review the fees.
+If you have not renewed late in the last 24 months you qualify for the late penalty fee waiver. To request the late penalty fee waiver, select Yes. This waiver only applies to the Late Renewal Penalty on endorsements with an expiration date of July 31, 2023 or later.
+If you have renewed late in the last 24 months you do not qualify for the late penalty fee waiver.
+If you see a message stating you may qualify
+learn more about the late penalty fee waiver
+to determine if you qualify and how to request a penalty refund after you submit the renewal.
+Review the information on the Summary page, then click
+On the Payment Method page, select the payment type you wish to use and click
+More information on payment options
+Bank Account (ACH debit) will deduct the payment from the bank account you select on the next page.
+Credit or Debit Card will charge the card you provide on the next page. A 2.96% service fee (with a $1 minimum) is charged by our third-party processor.
+On the Payment page, follow the prompts.
+If you selected the Bank Account (ACH Debit) option, confirm the payment amount and payment date, select or add your bank account, and click the
+button to continue to the Review & Submit page.
+If you selected the Credit or Debit Card option, confirm the payment amount, enter your credit or debit card information, billing address, contact information, how you would like to receive your receipt, and click the
+button. Review the payment information, then click the
+button to complete your submission and proceed to the Confirmation page.
+Review the information on the Review & Submit page, then click
+On the Confirmation page, click
+Print a business license
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+If you have access to more than one business, click the
+whose Business License you want to print.
+In the Business License panel, click the
+Print Business License
+link. Your Business License will appear in a new window. You can print from your web browser. Close the page to return to My DOR.
+If you have multiple Business License Accounts, click the
+link, then click the link of the applicable Business License Account to see the Business License panel.
+If you do not see the
+Print Business License
+link, please contact 360-705-6741 for assistance.
+Print a receipt for a renewal
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+On the account Summary page, click the
+In the Drafts and Submissions section, click
+View, Edit, or Print Drafts or Submissions
+Click the link for the License Renewal submission.
+If your renewal has been submitted, but not processed, a link will be located under the
+tab. If your renewal has been processed, the link will be located under the
+Your business license renewal receipt will appear in a new window. You can print from your web browser. Close the page to return to My DOR.
+Hire employees or add optional coverage for owners
+How to update employee information and add optional coverage for owners:
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+On the Business License panel, click
+Hire Employees/Minors or Add Optional Coverage
+The Online Business License Application opens. If you are hiring employees, select the
+Hire employees, including minors within 90 days
+Business phone number
+If you would like language assistance with any follow-up communications from other Washington State agencies, answer
+, and select your language.
+Review the information on the Owners & Officers page, and then click
+If you selected Add optional coverage for owners, review the selections on the Optional Coverage page, and then click
+If you did NOT select Hire employees, including minors within 90 days, continue to Step 17. Otherwise, complete the required fields on the Hire Employees page, and then click
+Indicate if you are going to hire minors. If yes, complete the required fields.
+Indicate if this is an out-of-state business with no Washington location or representatives. If yes, complete the required fields.
+Use the selector button to choose Yes or No on the Contractor Information page, and then click
+Review the Endorsement/Fee Overview and then click
+Review the information on the Summary page, then click
+On the Payment Method page, select the payment type you wish to use and click
+More information on payment options
+Bank Account (ACH Debit) will deduct the payment from the bank account you select on the next page.
+Credit or Debit Card will charge the card you provide on the next page. A 2.96% service fee (with a $1 minimum) is charged by our third-party processor.
+On the Payment page, follow the prompts.
+If you selected the Bank Account (ACH Debit) option, confirm the payment amount and payment date, select or add your bank account, and click the
+button to continue to the Review & Submit page.
+If you selected the Credit or Debit Card option, confirm the payment amount, enter your credit or debit card information, billing address, contact information, how you would like to receive your receipt, and click the
+button. Review the payment information, then click the
+button to complete your submission and proceed to the Confirmation page.
+Review the information on the Review & Submit page, then click
+On the Confirmation page, click
+Update owner or officer (governing people)
+How to update owner or officer information:
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+If you have access to more than one business, click the
+In the Business License Account panel, click the
+If you have multiple Business License Accounts, click the
+link, then click the link of the applicable Business License Account to see the Business License Account panel.
+In the Manage Business Names and Addresses section, click the
+Update Owners and Officers Governing People
+Update Owners and Officers
+link, on the right of the page.
+To add a new owner or officer click the
++Add an Owner or Officer
+link, complete the required fields, and click
+To update a current owner or officer's information, click the name of the owner or officer and update the necessary fields and click
+To remove an owner or officer, click the
+link next to their name.
+Review the information and click
+On the Confirmation page, click
+Update business license contact information
+How to update business license contact information:
+On dor.wa.gov click the
+Log in by entering your
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click
+. If you have access to more than one business, click the
+From the Summary tab, click the
+Within the Your Account section, click the
+View or Update Contacts
+link. If needed, filter by Account Type.
+to review or update the contact information for the account.
+Review and update the contact information, and then click
+. Please note, the changes made only update the account selected. Your Secure Access Washington (SAW) profile is not updated by this change.
+On the Confirmation page, click
+Add a city license or state endorsement
+How to add a city license or state endorsement:
+On dor.wa.gov click the
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click the
+If you have access to more than one business, click the
+In the Business License panel, click the
+View/Add Endorsements
+The Online Business License Application opens and the Add state endorsements and the Add city or county endorsements options are selected. Review and make any necessary edits, then click
+Business phone number
+If you would like language assistance with any follow-up communications from other Washington State agencies, answer
+, and select your language.
+If asked, indicate if you will be selling lottery tickets by selecting
+On the City and County page, indicate if you need to add additional city licenses by selecting
+, continue to step 17.
+Answer the required questions and click
+Check each city where you will be doing business. If a city is not listed, you will need to follow up with them directly. Then click
+Indicate if the business is applying for a nonprofit city license. If yes complete the required fields. Then click
+For each city, answer the requested information including first date of business, estimated gross revenue, and number of employees. Then click
+Select the appropriate state endorsement(s) on the Endorsement Selection page, then click
+For each endorsement, answer the requested information and click
+On the Endorsement/Fee Overview page, review the fees and click
+Review the information on the Summary page, then click
+On the Payment Method page, select the payment type you wish to use and click
+More information on payment options
+Bank Account (ACH Debit) will deduct the payment from the bank account you select on the next page.
+Credit or Debit Card will charge the card you provide on the next page. A 2.96% service fee (with a $1 minimum) is charged by our third-party processor.
+On the Payment page, follow the prompts.
+If you selected the Bank Account (ACH Debit) option, confirm the payment amount and payment date, select or add your bank account, and click the
+button to continue to the Review & Submit page.
+If you selected the Credit or Debit Card option, confirm the payment amount, enter your credit or debit card information, billing address, contact information, how you would like to receive your receipt, and click the
+button. Review the payment information, then click the
+button to complete your submission and proceed to the Confirmation page.
+Review the information on the Review & Submit page, then click
+On the Confirmation page, click
+How to add a new location:
+On dor.wa.gov click the
+Log in by entering your
+. If asked, complete the
+Multi-Factor Authentication challenge
+to verify your identity.
+On the My DOR Services page, click
+On the account Summary page, click the
+In the Licensing Services section, click the
+Apply for a Business License
+To add a location to an existing business, select
+I want to update a business that I have access to.
+, and then select the business.
+If the business does not appear in the list, select
+I want to enter the Unified Business Identifier (UBI) of the business I want to update.
+, and then enter the UBI number in the applicable field. *When entering a UBI: If you don’t have permission to access the account, you will be asked to request access or add access before adding the new location.
+If you are starting a new business, select
+I want to start a business in WA State.
+Instructions for completing the application.
+If the business has already been assigned a UBI, enter it in the Enter the UBI field. *When entering a UBI: If you don’t have permission to access the account, you will be asked to request access or add access before completing the application.
+Open a new physical location
+, or if you are only traveling to another city select the account below and follow the prompts.
+Review the required information and click
+to begin the Online Business License Application.
+Instructions for completing the application.
+Get or renew your business license
+Apply for a business license
+File types for attachments
+Multi-Factor Authentication
+Sales & use tax rates
+Business & occupation tax
+Filing frequencies & due dates
+File or amend my return
+Report no business activity
+Apply for a tax refund
+Publications by subject
